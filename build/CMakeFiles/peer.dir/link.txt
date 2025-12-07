@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/peer.dir/holePunchWebRTC.cpp.o -o peer  -Wl,-rpath,/mnt/c/Users/pissm/Downloads/mcMod/libdatachannel/build ../libdatachannel/build/libdatachannel.so -lssl -lcrypto -lpthread 
