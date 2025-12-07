@@ -1,0 +1,3 @@
+/mnt/c/Users/pissm/Downloads/mcMod/build/CMakeFiles/peer.dir
+/mnt/c/Users/pissm/Downloads/mcMod/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/pissm/Downloads/mcMod/build/CMakeFiles/rebuild_cache.dir
